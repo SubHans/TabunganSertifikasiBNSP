@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Tabungan/app/src/main/res/layout/activity_beranda.xml" value="0.33" />
+        <entry key="..\:/Tabungan/app/src/main/res/layout/activity_login.xml" value="0.1956521739130435" />
+        <entry key="..\:/Tabungan/app/src/main/res/layout/activity_main.xml" value="0.18819655521783182" />
+        <entry key="..\:/android/Tabungan/app/src/main/res/drawable/corner.xml" value="0.281" />
+        <entry key="..\:/android/Tabungan/app/src/main/res/drawable/gradient.xml" value="0.281" />
+        <entry key="..\:/android/Tabungan/app/src/main/res/layout/activity_beranda.xml" value="0.33" />
+        <entry key="..\:/android/Tabungan/app/src/main/res/layout/activity_detail.xml" value="0.37726449275362317" />
+        <entry key="..\:/android/Tabungan/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/android/Tabungan/app/src/main/res/layout/activity_main.xml" value="0.2015625" />
+        <entry key="..\:/android/Tabungan/app/src/main/res/layout/activity_pengaturan.xml" value="0.37726449275362317" />
+        <entry key="..\:/android/Tabungan/app/src/main/res/layout/activity_uang_keluar.xml" value="0.3729166666666667" />
+        <entry key="..\:/android/Tabungan/app/src/main/res/layout/activity_uang_masuk.xml" value="0.25" />
+        <entry key="..\:/android/Tabungan/app/src/main/res/layout/datain.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
